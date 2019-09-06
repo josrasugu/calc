@@ -1,0 +1,12 @@
+body{
+	background: #fff;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.silver{
+	color: #747474;
+}
+.danger{
+	color: red;
+}
